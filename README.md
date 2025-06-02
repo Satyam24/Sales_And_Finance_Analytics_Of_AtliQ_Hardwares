@@ -35,6 +35,5 @@
 - Designing user-centric reports with empathy.
 - Optimizing report generation through meticulous fine-tuning.
 - Developing a systematic approach to creating report-building plans.
-- Find the detailed project reports [here](https://github.com/Satyam24/Sales_And_Finance_Analytics_Of_AtliQ_Hardwares/tree/main).
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
